@@ -1,20 +1,20 @@
 # Koloni Hali
 
-Proje arı :honeybee: kolonilerinin durum gözetimi için bir [Akıllı hayvancılık] (https://tr.wikipedia.org/wiki/Nesnelerin_%C4%B0nternet'i) uygulamasıdır.
+Proje arı  :honeybee: kolonilerinin durum gözetimi için bir [Akıllı hayvancılık] (https://tr.wikipedia.org/wiki/Nesnelerin_%C4%B0nternet'i) uygulamasıdır.
 ## 3 ana sistemden oluşur
 
 
 - Kovanlar üzerinde: Veri **Tarlacılar**
 
+![veri tarlacıları](http://i.imgur.com/Iim7iPd.png)
 
-![veri tarlacıları](https://github.com/cemkaan/koloni-hali/Tarlacilar.png)
 
 - Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** 
 
 
-![veri toplayıcılar](https://github.com/cemkaan/koloni-hali/Toplayici.png)
+![veri toplayıcılar](http://i.imgur.com/b4Tk5WJ.png)
 
-- İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek** :chart_with_upwards_trend:
+- İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek**  :chart_with_upwards_trend:
 
 ### Sistem ay ışığından daha yüksek bir ışık yoğunluğunda açılır.
 ### Alarm sinyali alan Tarlacı Toplayıcıyı da uyandırır. Toplayıcı haberci sistemi açıp SMS gönderir.
