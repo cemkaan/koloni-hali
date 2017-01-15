@@ -4,17 +4,17 @@ Proje arı  :honeybee: kolonilerinin durum gözetimi için bir [Akıllı hayvanc
 ## 3 ana sistemden oluşur
 
 
-- Kovanlar üzerinde: Veri **Tarlacılar**
+1. **Kovanlar üzerinde: Veri **Tarlacılar** **
 
 ![veri tarlacıları](http://i.imgur.com/Iim7iPd.png)
 
 
-- Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** 
+2. ** Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** **
 
 
 ![veri toplayıcılar](http://i.imgur.com/b4Tk5WJ.png)
 
-- İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek**  :chart_with_upwards_trend:
+3. **İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek**  :chart_with_upwards_trend: **
 
 ### Sistem ay ışığından daha yüksek bir ışık yoğunluğunda açılır.
 ### Alarm sinyali alan Tarlacı Toplayıcıyı da uyandırır. Toplayıcı haberci sistemi açıp SMS gönderir.
