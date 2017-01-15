@@ -1,16 +1,16 @@
 # Koloni Hali
 
 Proje arı  :honeybee: kolonilerinin gözetimi için bir [Akıllı hayvancılık] (https://tr.wikipedia.org/wiki/Nesnelerin_%C4%B0nternet'i) uygulamasıdır.
-:sunrise_over_mountains: Gündüz saatlerindeki kovan durumunu aşağıdaki ölçümlerle cep telefonuna bildirir.
+:sunrise_over_mountains: Gündüz saatlerindeki kovan durumunu aşağıdaki ölçümlerle cep telefonuna :calling: bildirir.
 - Kovan için ısısı ve nemi
 - Arılık Ortam ısısı ve nemi
-- Kovan ağırlığı 
+- Kovan ağırlığı :honey_pot:
 ## 3 ana sistemden oluşur
 
 
 1. Kovanlar üzerinde: Veri **Tarlacılar**
 ![veri tarlacıları](http://i.imgur.com/Iim7iPd.png)
-2. Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** /play 56k
+2. Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** 
 ![veri toplayıcılar](http://i.imgur.com/b4Tk5WJ.png)
 3. İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek**  :chart_with_upwards_trend:
 
