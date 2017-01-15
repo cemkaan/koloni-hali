@@ -4,7 +4,7 @@ Proje bir [Akıllı hayvancılık] (https://tr.wikipedia.org/wiki/Nesnelerin_%C4
 ## 4 ana aşamadan oluşur
 - Kovan kapaklarında: **Veri Tarlacıları**
 - Her arılıktaki bir Ağaca asılı: **Veri Toplayıcı**
-- İnternete verileri gönderen: **Postacı**
+- İnternete verileri gönderen: **Haberci**
 - İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek**
 
 
