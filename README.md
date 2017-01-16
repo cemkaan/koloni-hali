@@ -19,6 +19,8 @@ Proje arı  :honeybee: kolonilerinin gözetimi için bir [Akıllı hayvancılık
 ### :sunrise_over_mountains: Sistem ay ışığından daha yüksek bir ışık yoğunluğunda açılır.
 ### :alarm_clock: Alarm sinyali alan Tarlacı Toplayıcıyı da uyandırır. Toplayıcı haberci sistemi açıp SMS gönderir.
 
+___
+
 > Proje _Cem Taşkent'in [kovan takip sistemi](http://kovantakip.blogspot.com.tr/) örnekliğinde başlamıştır._ 
 > Kendisi 2015 yılından itibaren sistemi verimli şekilde denemiş ve kullanmaktadır.
 
