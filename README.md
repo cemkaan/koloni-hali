@@ -14,6 +14,8 @@ Proje arı  :honeybee: kolonilerinin gözetimi için bir [Akıllı hayvancılık
 ![veri toplayıcılar](http://gdurl.com/S85o/download)
 3. İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek** // Hedef maliyet: Kovan başına ~Yıllık 1₺ :chart_with_upwards_trend:
 
+----
+
 ### :sunrise_over_mountains: Sistem ay ışığından daha yüksek bir ışık yoğunluğunda açılır.
 ### :alarm_clock: Alarm sinyali alan Tarlacı Toplayıcıyı da uyandırır. Toplayıcı haberci sistemi açıp SMS gönderir.
 
