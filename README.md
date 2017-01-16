@@ -9,7 +9,7 @@ Proje arı  :honeybee: kolonilerinin gözetimi için bir [Akıllı hayvancılık
 
 
 1. Kovanlar üzerinde: Veri **Tarlacılar** // Hedef maliyet: Kovan başına ~100₺
-![veri tarlacıları](http://i.imgur.com/Iim7iPd.png)
+![veri tarlacıları](http://gdurl.com/KtEw/download)
 2. Her arılıktaki bir ağaca asılı: Veri **Toplayıcı** / İnternete verileri gönderen ek GPRS veya Wi-Fi modul: **Haberci** // Hedef maliyet: Arılık başına ~400₺
 ![veri toplayıcılar](http://i.imgur.com/b4Tk5WJ.png)
 3. İnternet üzerinde arıcıya özel görsel sunum yapan mobil uygulama: **Petek** // Hedef maliyet: Kovan başına ~Yıllık 1₺ :chart_with_upwards_trend:
